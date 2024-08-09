@@ -9199,7 +9199,7 @@ html.rd-navbar-fixed-linked .page {
 	left: 30px;
 }
 
-.swiper-button-prev:before {
+.swiper-button-prev:after {
 	background-image: url('/site/images/banner/arrow.svg');
 	content: "\ec43";
 }
@@ -9208,7 +9208,7 @@ html.rd-navbar-fixed-linked .page {
 	right: 30px;
 }
 
-.swiper-button-next:before { 
+.swiper-button-next:after { 
 	background-image: url('/site/images/banner/arrow.svg');
 
 	content: "\ec44";
